@@ -1,4 +1,4 @@
-import styles from './productcard.module.css'
+import styles from './productCard.module.css'
 import Image from 'next/image';
 
 export default function ProductCard () {
